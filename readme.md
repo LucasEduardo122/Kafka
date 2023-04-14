@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/static/v1?label=Taught%20by&message=LucasEduardo122&color=white&labelColor=8257E5" alt="Taught by LucasEduardo122">
 </p>
 
-![](./.github/kafka.jpg)
+![](./.github/cover.jpg)
 
 <br>
 <br>
