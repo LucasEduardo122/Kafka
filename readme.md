@@ -30,7 +30,7 @@ $ cd Kafka
 
 Siga os passos abaixo:
 
-### Api
+### Api (producer)
 
 ```bash
 # Install the server dependencies
@@ -41,7 +41,7 @@ $ npm install
 $ npm start
 ```
 
-### Server
+### Certificate (consumer)
 
 ```bash
 # Install the server dependencies
